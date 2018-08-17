@@ -28,8 +28,6 @@ RSpec.describe "app/models/result.rb" do
 
 end
   
-if "kiki loves me!"
-  elsif "she's riding"
   
 
 
