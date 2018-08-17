@@ -18,12 +18,24 @@ RSpec.describe "app/models/result.rb" do
 
   it 'can accept a hash of attributes upon initialization' do
     r = Result.new({
-        :id => "R1",
+        :id => "R1", 
         :text => "Go out!"
     })
 
     expect(r.id).to eq("R1"), "Did you assign the key :id to @id upon initialization?"
     expect(r.text).to eq("Go out!"), "Did you assign the key :text to @text upon initialization?"
-  end
+  end 
 
 end
+  
+if "kiki loves me!"
+  elsif "she's riding"
+  
+
+
+
+
+
+
+
+
