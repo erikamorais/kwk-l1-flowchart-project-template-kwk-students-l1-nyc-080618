@@ -28,7 +28,7 @@ RSpec.describe "app/models/result.rb" do
 
 end
   
-  
+
 
 
 
